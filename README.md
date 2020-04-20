@@ -7,6 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## DEMO: Go to http://oem-server.herokuapp.com/
 
 Sample username: JaneDoe
+
 Sample password: 123456
 
 ## Development server
