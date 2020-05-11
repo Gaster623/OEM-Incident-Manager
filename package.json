@@ -37,7 +37,7 @@
     "mongodb": "^3.3.0-beta2",
     "mongoose": "^5.6.4",
     "rxjs": "~6.4.0",
-    "tinymce": "^5.0.12",
+    "tinymce": "^5.2.2",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
   },
