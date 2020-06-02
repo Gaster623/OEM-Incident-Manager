@@ -25,7 +25,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
@@ -90,7 +90,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "IncidentManager"
+  "defaultProject": "IncidentManager",
+  "cli": {
+    "analytics": "b4c667c7-17fa-4581-abff-8c77914d7546"
+  }
 }
